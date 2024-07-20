@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1674123083 source:c:\users\wu000\downloads\final_frontier\ppgm\ppgm.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<sstream>
+	"ppgm.h"
+
+1674123292 c:\users\wu000\downloads\final_frontier\ppgm\ppgm.h
+
+1674123389 source:c:\users\wu000\downloads\final_frontier\ppgm\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<sstream>
+	"ppgm.h"
+

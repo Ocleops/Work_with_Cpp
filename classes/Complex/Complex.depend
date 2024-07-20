@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1673747353 source:c:\users\wu000\downloads\final_frontier\complex\main.cpp
+	<iostream>
+	<cmath>
+	"Complex.h"
+
+1673746297 c:\users\wu000\downloads\final_frontier\complex\complex.h
+
+1673690421 source:c:\users\wu000\downloads\final_frontier\complex\complex.cpp
+	<iostream>
+	<cmath>
+	"Complex.h"
+

@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1673936648 source:c:\users\wu000\downloads\final_frontier\array2d\main.cpp
+	<iostream>
+	"Array2d.h"
+
+1673936817 c:\users\wu000\downloads\final_frontier\array2d\array2d.h
+
+1673935004 source:c:\users\wu000\downloads\final_frontier\array2d\array2d.cpp
+

@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1673753982 source:c:\users\wu000\downloads\final_frontier\array\array.cpp
+
+1673930296 source:c:\users\wu000\downloads\final_frontier\array\main.cpp
+	<iostream>
+	"Array.h"
+
+1673930403 c:\users\wu000\downloads\final_frontier\array\array.h
+

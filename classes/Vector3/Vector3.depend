@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1673687589 source:c:\users\wu000\downloads\final_frontier\vector3\main.cpp
+	<iostream>
+	"Vector.h"
+	<cmath>
+
+1673688139 c:\users\wu000\downloads\final_frontier\vector3\vector.h
+
+1673686796 source:c:\users\wu000\downloads\final_frontier\vector3\vector.cpp
+	<iostream>
+	"Vector.h"
+	<cmath>
+

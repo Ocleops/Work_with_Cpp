@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1672039974 source:c:\users\wu000\downloads\final_frontier\date2\main.cpp
+	<iostream>
+	"Date.h"
+
+1672039520 c:\users\wu000\downloads\final_frontier\date2\date.h
+
+1672039915 source:c:\users\wu000\downloads\final_frontier\date2\date.cpp
+	<iostream>
+	"Date.h"
+
